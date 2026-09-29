@@ -12,16 +12,17 @@
 
 %A Davies, P. S.
 %D 2001
-%T Norms of Nature: Naturalism and the Nature of Functions
+%T Norms of nature: Naturalism and the nature of functions
 %C Cambridge
 %I MIT Press
- 
+%O https://doi.org/10.7551/mitpress/5043.001.0001
 
 %A Millikan, R. G.
 %D 1984
 %B Language, Thought, and Other Biological Categories
 %I Bradford Books/MIT Press
 %C Cambridge MA
+%O https://doi.org/10.7551/mitpress/4124.001.0001 
 
 %A Garson, J.
 %D 2017
@@ -29,7 +30,8 @@
 %J Philosophy of Science
 %V 84
 %N 3
-%P 523\[en]543.
+%P 523\[en]543
+%O https://doi.org/10.1086/692146 
 
 # Malfunctioning and Accident
 
@@ -42,15 +44,9 @@
 %P 109\[en]141
 %O https://doi.org/10.1007/BF00989706
 
-%A Davies, P. S.
-%D 2001
-%B Norms of Nature: Naturalism and the Nature of Functions
-%C Cambridge
-%I MIT Press., Ch. 3, ---
-
 %A Neander, K.
 %D 2017
-%T Functional Analysis and Species Design
+%T Functional analysis and the species design
 %J Synthese
 %V 194
 %P 1147\[en]1168
@@ -74,6 +70,7 @@
 %V 28
 %N 3
 %P 344\[en]362
+%O https://doi.org/10.2307/2216063
 
 # Teleosemantics
 
@@ -140,7 +137,7 @@
 %E M. Moss
 %C Oxford
 %I Oxford University Press
-%P 1\[en]-39
+%P 1\[en]39
 %O https://doi.org/10.1093/oso/9780198738831.003.0001
 
 %A Strawson, P.F.
@@ -157,8 +154,8 @@
 %T Intentionalism versus The New Conventionalism
 %J Croatian Journal of Philosophy
 %V 16
-%N 2
-%P 173\[en]01
+%N 47
+%P 173\[en]201
 
 %A Millikan, R. G.
 %D 2005
@@ -166,8 +163,9 @@
 %B Language: A Biological Model
 %E Millikan, R. G.
 %C Oxford
-%T Oxford University Press
+%I Oxford University Press
 %P 1\[en]23
+%O https://doi.org/10.1093/0199284768.003.0001
 
 %A Millikan, R. G.
 %D 2005
@@ -194,7 +192,7 @@
 
 %A Fricker, Miranda
 %D 2014
-What's the Point of Blame? A Paradigm Based Explanation
+%T What's the Point of Blame? A Paradigm Based Explanation
 %J No\[^u]s
 %V 50
 %N 1
@@ -203,7 +201,7 @@ What's the Point of Blame? A Paradigm Based Explanation
 
 %A Shoemaker, D.
 %A Vargas, M.
-%D 2018
+%D 2021
 %T Moral torch fishing: A signaling theory of blame
 %J No\[^u]s
 %V 55
@@ -227,3 +225,4 @@ What's the Point of Blame? A Paradigm Based Explanation
 # https://plato.stanford.edu/entries/teleology-biology/
 # https://plato.stanford.edu/entries/content-teleological/
 #
+
