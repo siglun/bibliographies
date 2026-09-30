@@ -4,9 +4,11 @@ A single [GNU refer](https://www.gnu.org/software/groff/) bibliography
 database, maintained here so that every one of my writing projects draws
 citations from **one** source instead of its own drifting copy.
 
-The whole database is the plain-text file **`references.text`**. It is
-UTF-8, and it is meant to be readable and hand-editable — no tooling is
-required to add or fix an entry.
+The whole database is in plain-text files like **`references.text`** and **`language-function.text`**.
+It is UTF-8, and it is meant to be readable and hand-editable — no tooling is required to add or fix an entry.
+
+There is a Makefile here for indexing the bibliographies.
+It is used in the repositories that use this bibliography.
 
 ---
 
