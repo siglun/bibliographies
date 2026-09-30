@@ -8,7 +8,7 @@ The whole database is in plain-text files like **`references.text`** and **`lang
 It is UTF-8, and it is meant to be readable and hand-editable — no tooling is required to add or fix an entry.
 
 There is a Makefile here for indexing the bibliographies.
-It is used in the repositories that use this bibliography.
+That is used by make in the repositories using the bibliography.
 
 ---
 
