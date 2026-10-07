@@ -8,7 +8,7 @@ INDXBIB := $(if $(wildcard /usr/local/bin/indxbib), \
 
 bibliography.i: bibliography.list $(TEXTS)
 	$(INDXBIB) -f $< -o bibliography
-
+	cat `cat bibliography.list` > bibliography
 
 bibliography.list: $(TEXTS)
 	printf '%s\n' $^ > $@
