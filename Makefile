@@ -1,5 +1,5 @@
 
-TEXTS := language-function.text references.text
+TEXTS := language-function.text references.text metaphysics.text
 
 default: bibliography.i
 
