@@ -1,5 +1,6 @@
 
-TEXTS := language-function.text references.text metaphysics.text
+TEXTS := language-function.text references.text metaphysics.text \
+	misc-biology.text
 
 default: bibliography.i
 
